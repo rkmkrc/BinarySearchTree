@@ -1,0 +1,7 @@
+1,deniz,40
+2,bahadir,20
+3,halil,60
+4,ahmet,10
+5,can,30
+6,eren,50
+7,rasim,70
